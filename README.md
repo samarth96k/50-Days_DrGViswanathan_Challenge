@@ -11,6 +11,12 @@ This repository contains my daily solutions for the #DrGViswanathan 50-Day Codin
 |-----|-------------|-------------------|--------|
 | Day 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Missing Number](https://leetcode.com/problems/missing-number/) | ✅ |
 | Day 2 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 3 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 4 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 5 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 6 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 7 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 8 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
 
 #Goal
 Complete all 50 daily challenges and document learning to build consistency, discipline, and strong problem-solving skills.
