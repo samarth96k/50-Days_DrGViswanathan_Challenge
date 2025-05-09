@@ -17,7 +17,7 @@ This repository contains my daily solutions for the #DrGViswanathan 50-Day Codin
 | Day 6 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Happy Number](https://leetcode.com/problems/remove-linked-list-elements/description/) | ✅ |
 | Day 7 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | ✅ |
 | Day 8 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | ✅ |
-| Day 9 | [Swapping Nodes in a Linked List]([https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | [Nth Digit](https://leetcode.com/problems/nth-digit/description/) | ✅ |
+| Day 9 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | [Nth Digit](https://leetcode.com/problems/nth-digit/description/) | ✅ |
 | Day 10 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | ✅ |
 
 #Goal
