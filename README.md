@@ -17,6 +17,8 @@ This repository contains my daily solutions for the #DrGViswanathan 50-Day Codin
 | Day 6 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
 | Day 7 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
 | Day 8 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 9 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ |
+| Day 10 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | ✅ |
 
 #Goal
 Complete all 50 daily challenges and document learning to build consistency, discipline, and strong problem-solving skills.
