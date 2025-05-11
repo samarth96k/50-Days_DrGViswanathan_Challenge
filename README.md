@@ -20,6 +20,7 @@ This repository contains my daily solutions for the #DrGViswanathan 50-Day Codin
 | Day 9 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | [Nth Digit](https://leetcode.com/problems/nth-digit/description/) | ✅ |
 | Day 10 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | ✅ |
 | Day 11 | [Remove nth node from the linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | ✅ |
+| Day 12 | []() | []() | ✅ |
 
 #Goal
 Complete all 50 daily challenges and document learning to build consistency, discipline, and strong problem-solving skills.
