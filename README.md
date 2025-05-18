@@ -21,12 +21,12 @@ This repository contains my daily solutions for the #DrGViswanathan 50-Day Codin
 | Day 10 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | ✅ |
 | Day 11 | [Remove nth node from the linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | ✅ |
 | Day 12 | [Insert Greatest Common Divisors](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Count Odd Numbers](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | ✅ |
-| Day 13 | [ ]( ) | [ ]( ) | ✅ |
-| Day 14 | [ ]( ) | [ ]( ) | ✅ |
-| Day 15 | [ ]( ) | [ ]( ) | ✅ |
-| Day 16 | [ ]( ) | [ ]( ) | ✅ |
-| Day 17 | [ ]( ) | [ ]( ) | ✅ |
-| Day 18 | [ ]( ) | [ ]( ) | ✅ |
+| Day 13 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [ Sign of Product Of An Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/ ) | ✅ |
+| Day 14 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | ✅ |
+| Day 15 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Excel Shhet Column](https://leetcode.com/problems/excel-sheet-column-title/description/) | ✅ |
+| Day 16 | [Delete Node In a Linked List Problem ](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Sum Of Sqaure Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | ✅ |
+| Day 17 | [ Min-Stack](https://leetcode.com/problems/min-stack/description/) | [Two Sum](https://leetcode.com/problems/two-sum/description/) | ✅ |
+| Day 18 | [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/) | ✅ |
 | Day 19 | [Valid Parentheses](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | ✅ | https://www.youtube.com/watch?v=INRBsmU07Uk |
 
 #Goal
