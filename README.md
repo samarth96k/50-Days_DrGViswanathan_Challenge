@@ -29,7 +29,7 @@ This repository contains my daily solutions for the #DrGViswanathan 50-Day Codin
 | Day 18 | [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/) | ✅ |
 | Day 19 | [Valid Parentheses](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | ✅ | https://www.youtube.com/watch?v=INRBsmU07Uk |
 | Day 20 | [ ]( ) | [ ]( ) | ✅ | |
-| Day 21 | [Valid Parentheses String](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | ✅ | https://www.youtube.com/watch?v=INRBsmU07Uk |
+| Day 21 | [Valid Parentheses String](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | ✅ |   |
 
 
 #Goal
